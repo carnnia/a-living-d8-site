@@ -1,0 +1,14 @@
+{
+    "name": "carnnia/a-living-d8-site",
+    "description": "A living Drupal 8 Site with as many bells ans whistles that I can add to it.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Casey Carnnia",
+            "email": "carnnia@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
