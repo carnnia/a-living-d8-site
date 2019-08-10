@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "drupal/drupal": "8.8.x-dev"
+    }
 }
